@@ -97,7 +97,7 @@ nbgitpuller==0.6.1
 nbgrader==0.5.4
 nbresuse==0.3.0
 networkx==2.2
-notebook==5.7.2
+notebook==6.1.5
 nteract-on-jupyter==1.9.12
 numba==0.41.0
 numexpr==2.6.8
